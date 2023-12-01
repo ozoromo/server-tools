@@ -4,6 +4,10 @@
             format("woff2"),
         url("../../lib/fontawesome-6.5.1/webfonts/fa-solid-900.ttf?v=6.5.1")
             format("truetype"),
+        url("../../lib/fontawesome-6.5.1/webfonts/fa-brands-400.woff2?v=5.15.4")
+            format("woff2"),
+        url("../../lib/fontawesome-6.5.1/webfonts/fa-brands-400.ttf?v=5.15.4")
+            format("truetype"),
     font-weight: normal;
     font-style: normal;
     font-display: block;
